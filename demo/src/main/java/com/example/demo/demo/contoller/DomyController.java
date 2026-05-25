@@ -6,3 +6,5 @@ public class DomyController {
 
     }
 }
+
+//this will return hello just data since we have RestController annotation it will directly return hello data not any template
